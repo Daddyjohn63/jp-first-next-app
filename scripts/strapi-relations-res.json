@@ -1,0 +1,238 @@
+{
+  "data": [
+    {
+      "id": 6,
+      "attributes": {
+        "slug": "post-6",
+        "title": "Post 6",
+        "subtitle": "Sub title 6",
+        "publishedAt": "2023-08-13T12:10:49.303Z",
+        "categories": {
+          "data": [
+            {
+              "id": 3,
+              "attributes": {
+                "title": "travel",
+                "slug": "travel",
+                "createdAt": "2023-08-14T15:29:41.818Z",
+                "updatedAt": "2023-08-14T15:29:50.509Z",
+                "publishedAt": "2023-08-14T15:29:50.509Z"
+              }
+            },
+            {
+              "id": 2,
+              "attributes": {
+                "title": "country",
+                "slug": "country",
+                "createdAt": "2023-08-14T15:29:01.392Z",
+                "updatedAt": "2023-08-14T15:29:03.671Z",
+                "publishedAt": "2023-08-14T15:29:03.669Z"
+              }
+            },
+            {
+              "id": 1,
+              "attributes": {
+                "title": "animals",
+                "slug": "animals",
+                "createdAt": "2023-08-14T15:27:30.590Z",
+                "updatedAt": "2023-08-14T15:28:28.211Z",
+                "publishedAt": "2023-08-14T15:28:28.208Z"
+              }
+            }
+          ]
+        },
+        "image": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "url": "/uploads/karen_m9o_Q1_C_EE_unsplash_faaafb171e.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5,
+      "attributes": {
+        "slug": "post-5",
+        "title": "Post 5",
+        "subtitle": "Sub title 5",
+        "publishedAt": "2023-08-13T12:10:31.741Z",
+        "categories": {
+          "data": [
+            {
+              "id": 2,
+              "attributes": {
+                "title": "country",
+                "slug": "country",
+                "createdAt": "2023-08-14T15:29:01.392Z",
+                "updatedAt": "2023-08-14T15:29:03.671Z",
+                "publishedAt": "2023-08-14T15:29:03.669Z"
+              }
+            }
+          ]
+        },
+        "image": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "url": "/uploads/karen_m9o_Q1_C_EE_unsplash_faaafb171e.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4,
+      "attributes": {
+        "slug": "post-4",
+        "title": "Post 4",
+        "subtitle": "Sub title 4",
+        "publishedAt": "2023-08-13T12:10:10.701Z",
+        "categories": {
+          "data": [
+            {
+              "id": 3,
+              "attributes": {
+                "title": "travel",
+                "slug": "travel",
+                "createdAt": "2023-08-14T15:29:41.818Z",
+                "updatedAt": "2023-08-14T15:29:50.509Z",
+                "publishedAt": "2023-08-14T15:29:50.509Z"
+              }
+            },
+            {
+              "id": 2,
+              "attributes": {
+                "title": "country",
+                "slug": "country",
+                "createdAt": "2023-08-14T15:29:01.392Z",
+                "updatedAt": "2023-08-14T15:29:03.671Z",
+                "publishedAt": "2023-08-14T15:29:03.669Z"
+              }
+            }
+          ]
+        },
+        "image": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "url": "/uploads/karen_m9o_Q1_C_EE_unsplash_faaafb171e.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3,
+      "attributes": {
+        "slug": "post-3",
+        "title": "Post 3",
+        "subtitle": "Sub title 3",
+        "publishedAt": "2023-08-13T12:09:38.101Z",
+        "categories": {
+          "data": [
+            {
+              "id": 2,
+              "attributes": {
+                "title": "country",
+                "slug": "country",
+                "createdAt": "2023-08-14T15:29:01.392Z",
+                "updatedAt": "2023-08-14T15:29:03.671Z",
+                "publishedAt": "2023-08-14T15:29:03.669Z"
+              }
+            }
+          ]
+        },
+        "image": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "url": "/uploads/karen_m9o_Q1_C_EE_unsplash_faaafb171e.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2,
+      "attributes": {
+        "slug": "post-2",
+        "title": "Post 2",
+        "subtitle": "Sub title 2",
+        "publishedAt": "2023-08-13T12:08:38.512Z",
+        "categories": {
+          "data": [
+            {
+              "id": 3,
+              "attributes": {
+                "title": "travel",
+                "slug": "travel",
+                "createdAt": "2023-08-14T15:29:41.818Z",
+                "updatedAt": "2023-08-14T15:29:50.509Z",
+                "publishedAt": "2023-08-14T15:29:50.509Z"
+              }
+            }
+          ]
+        },
+        "image": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "url": "/uploads/karen_m9o_Q1_C_EE_unsplash_faaafb171e.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1,
+      "attributes": {
+        "slug": "post-1",
+        "title": "Post 1",
+        "subtitle": "Sub title 1",
+        "publishedAt": "2023-08-13T12:06:53.602Z",
+        "categories": {
+          "data": [
+            {
+              "id": 1,
+              "attributes": {
+                "title": "animals",
+                "slug": "animals",
+                "createdAt": "2023-08-14T15:27:30.590Z",
+                "updatedAt": "2023-08-14T15:28:28.211Z",
+                "publishedAt": "2023-08-14T15:28:28.208Z"
+              }
+            },
+            {
+              "id": 3,
+              "attributes": {
+                "title": "travel",
+                "slug": "travel",
+                "createdAt": "2023-08-14T15:29:41.818Z",
+                "updatedAt": "2023-08-14T15:29:50.509Z",
+                "publishedAt": "2023-08-14T15:29:50.509Z"
+              }
+            }
+          ]
+        },
+        "image": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "url": "/uploads/karen_m9o_Q1_C_EE_unsplash_faaafb171e.jpg"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 6,
+      "pageCount": 1,
+      "total": 6
+    }
+  }
+}
