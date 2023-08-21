@@ -6,10 +6,21 @@ const url =
   '?' +
   qs.stringify(
     {
-      fields: ['slug', 'title', 'subtitle', 'excerpt', 'body', 'publishedAt'],
-      populate: { image: { fields: ['url'] } },
-      sort: ['publishedAt:desc'],
-      pagination: { pageSize: 6 }
+      fields: [''],
+      populate: {
+        categories: {
+          fields: ['title', 'slug']
+        }
+      },
+
+      pagination: { pageSize: 1 },
+      filters: {
+        categories: {
+          title: {
+            $eq: 'animals'
+          }
+        }
+      }
     },
     { encodeValuesOnly: true }
   );
@@ -17,5 +28,5 @@ const url =
 const response = await fetch(url);
 const body = await response.json();
 const formatted = JSON.stringify(body, null, 2);
-const file = 'scripts/strapi-fd-response.json';
+const file = 'scripts/strapi-cat-title-res.json';
 writeFileSync(file, formatted, 'utf8');

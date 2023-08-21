@@ -1,0 +1,11 @@
+node scripts/strapi-fd-fetch.mjs
+
+node scripts/strapi-single-post.mjs
+
+node scripts/strapi-category-request.mjs
+
+node scripts/strapi-cat-title-req.mjs
+
+[CategoryPage] props: { params: { category: 'travel' }, searchParams: {} }
+
+[SinglePage] Props: { params: { slug: 'post-6' } }

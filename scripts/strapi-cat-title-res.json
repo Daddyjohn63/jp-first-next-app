@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 6,
+      "attributes": {
+        "categories": {
+          "data": [
+            {
+              "id": 2,
+              "attributes": {
+                "title": "country",
+                "slug": "country"
+              }
+            },
+            {
+              "id": 1,
+              "attributes": {
+                "title": "animals",
+                "slug": "animals"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 1,
+      "pageCount": 1,
+      "total": 1
+    }
+  }
+}

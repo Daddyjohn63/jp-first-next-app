@@ -6,10 +6,10 @@ const url =
   '?' +
   qs.stringify(
     {
+      filters: { slug: { $eq: 'post-5' } },
       fields: ['slug', 'title', 'subtitle', 'excerpt', 'body', 'publishedAt'],
       populate: { image: { fields: ['url'] } },
-      sort: ['publishedAt:desc'],
-      pagination: { pageSize: 6 }
+      pagination: { pageSize: 1, withCount: false }
     },
     { encodeValuesOnly: true }
   );
@@ -17,5 +17,5 @@ const url =
 const response = await fetch(url);
 const body = await response.json();
 const formatted = JSON.stringify(body, null, 2);
-const file = 'scripts/strapi-fd-response.json';
+const file = 'scripts/strapi-sp-response.json';
 writeFileSync(file, formatted, 'utf8');

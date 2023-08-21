@@ -1,0 +1,150 @@
+{
+  "data": [
+    {
+      "id": 6,
+      "attributes": {
+        "publishedAt": "2023-08-13T12:10:49.303Z",
+        "slug": "post-6",
+        "title": "Post 6",
+        "subtitle": "Sub title 6",
+        "excerpt": "Aliquam eu nunc. Quisque ut nisi. Praesent blandit laoreet nibh. Fusce risus nisl, viverra et, tempor et, pretium in,",
+        "categories": {
+          "data": [
+            {
+              "id": 2,
+              "attributes": {
+                "title": "country",
+                "slug": "country",
+                "createdAt": "2023-08-14T15:29:01.392Z",
+                "updatedAt": "2023-08-14T15:29:03.671Z",
+                "publishedAt": "2023-08-14T15:29:03.669Z"
+              }
+            },
+            {
+              "id": 1,
+              "attributes": {
+                "title": "animals",
+                "slug": "animals",
+                "createdAt": "2023-08-14T15:27:30.590Z",
+                "updatedAt": "2023-08-14T15:28:28.211Z",
+                "publishedAt": "2023-08-14T15:28:28.208Z"
+              }
+            }
+          ]
+        },
+        "image": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "url": "/uploads/karen_m9o_Q1_C_EE_unsplash_faaafb171e.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5,
+      "attributes": {
+        "publishedAt": "2023-08-13T12:10:31.741Z",
+        "slug": "post-5",
+        "title": "Post 5",
+        "subtitle": "Sub title 5",
+        "excerpt": "Aliquam eu nunc. Quisque ut nisi. Praesent blandit laoreet nibh. Fusce risus nisl, viverra et, tempor et, pretium in,",
+        "categories": {
+          "data": [
+            {
+              "id": 2,
+              "attributes": {
+                "title": "country",
+                "slug": "country",
+                "createdAt": "2023-08-14T15:29:01.392Z",
+                "updatedAt": "2023-08-14T15:29:03.671Z",
+                "publishedAt": "2023-08-14T15:29:03.669Z"
+              }
+            }
+          ]
+        },
+        "image": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "url": "/uploads/karen_m9o_Q1_C_EE_unsplash_faaafb171e.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4,
+      "attributes": {
+        "publishedAt": "2023-08-13T12:10:10.701Z",
+        "slug": "post-4",
+        "title": "Post 4",
+        "subtitle": "Sub title 4",
+        "excerpt": "Aliquam eu nunc. Quisque ut nisi. Praesent blandit laoreet nibh. Fusce risus nisl, viverra et, tempor et, pretium in,",
+        "categories": {
+          "data": [
+            {
+              "id": 2,
+              "attributes": {
+                "title": "country",
+                "slug": "country",
+                "createdAt": "2023-08-14T15:29:01.392Z",
+                "updatedAt": "2023-08-14T15:29:03.671Z",
+                "publishedAt": "2023-08-14T15:29:03.669Z"
+              }
+            }
+          ]
+        },
+        "image": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "url": "/uploads/karen_m9o_Q1_C_EE_unsplash_faaafb171e.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3,
+      "attributes": {
+        "publishedAt": "2023-08-13T12:09:38.101Z",
+        "slug": "post-3",
+        "title": "Post 3",
+        "subtitle": "Sub title 3",
+        "excerpt": "Aliquam eu nunc. Quisque ut nisi. Praesent blandit laoreet nibh. Fusce risus nisl, viverra et, tempor et, pretium in,",
+        "categories": {
+          "data": [
+            {
+              "id": 2,
+              "attributes": {
+                "title": "country",
+                "slug": "country",
+                "createdAt": "2023-08-14T15:29:01.392Z",
+                "updatedAt": "2023-08-14T15:29:03.671Z",
+                "publishedAt": "2023-08-14T15:29:03.669Z"
+              }
+            }
+          ]
+        },
+        "image": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "url": "/uploads/karen_m9o_Q1_C_EE_unsplash_faaafb171e.jpg"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 6,
+      "pageCount": 1,
+      "total": 4
+    }
+  }
+}
